@@ -39,6 +39,6 @@ class Student
   end
   
   def self.create(student)
-    
+    binding.pry
   end
 end
